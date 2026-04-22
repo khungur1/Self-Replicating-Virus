@@ -1,0 +1,10 @@
+bin
+build/
+*.swp
+*.so
+experimentlogs/*
+bench_results/
+test_program.bin
+trace.bff
+__pycache__/
+CLAUDE.md
